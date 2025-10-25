@@ -15,15 +15,14 @@ Use this template to outline your computer vision project proposal. Fill in the 
 **Scope:** [Define what's in and out of scope.]
 
 ## Team Members and Roles
-List 3-5 team members with assigned roles. Ensure roles are balanced.
+List 2-3 team members with assigned roles. Ensure roles are balanced.
 
 | Team Member | GitHub Account | Role | Responsibilities |
 |-------------|----------------|------|------------------|
 | [Member 1 Name] | [GitHub Account] | [Role] | [Responsibilities] |
 | [Member 2 Name] | [GitHub Account] | [Role] | [Responsibilities] |
-| [Member 3 Name] | [GitHub Account] | [Role] | [Responsibilities] |
 | [Member 4 Name] | [GitHub Account] | [Role] | [Responsibilities] |
-| [Member 5 Name] | [GitHub Account] | [Role] | [Responsibilities] |
+
 
 ## Tools and Usage
 Specify the tools, libraries, and resources needed, with how they'll be used.
