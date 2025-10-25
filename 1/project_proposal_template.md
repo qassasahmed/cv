@@ -66,9 +66,9 @@ Break down the project into a 4-week timeline with milestones, deliverables, and
 **Overall Timeline Notes:** [Any additional notes.]  
 
 ### Checklist for detailed tasks
--[ ] Task 1
--[ ] Task 2
--[ ] Task 3
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
 
 ## Evaluation Criteria
 - **Success Metrics:** [List metrics]
