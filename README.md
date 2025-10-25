@@ -13,8 +13,8 @@ The lab is structured into 5 progressive phases, each in its own folder:
 5. **Projects and Integration**: Build end-to-end projects combining multiple techniques, with considerations for ethics and optimization.
 
 ## Getting Started
-- Clone the repo and navigate to each phase folder.
-- Install dependencies: `pip install opencv-python numpy matplotlib tensorflow keras`.
+- Clone the repo and navigate to cv folder.
+- Install dependencies: `pip install -r requirements.txt`.
 - Open notebooks in Jupyter or VS Code for interactive coding.
 - Prerequisites: Python basics and introductory CV knowledge.
 
