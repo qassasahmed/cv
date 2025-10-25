@@ -21,7 +21,7 @@ List 2-3 team members with assigned roles. Ensure roles are balanced.
 |-------------|----------------|------|------------------|
 | [Member 1 Name] | [GitHub Account] | [Role] | [Responsibilities] |
 | [Member 2 Name] | [GitHub Account] | [Role] | [Responsibilities] |
-| [Member 4 Name] | [GitHub Account] | [Role] | [Responsibilities] |
+| [Member 3 Name] | [GitHub Account] | [Role] | [Responsibilities] |
 
 
 ## Tools and Usage
