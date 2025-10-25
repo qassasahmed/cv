@@ -1,5 +1,5 @@
 # Instructions
-- Create Git Repo for Your Project
+- Create GitHub Repo for Your Project
 - The README.md file of the Repo should be Your Proposal
 - Repos will be checked weekly on Friday for progress based on proposed plan
 - Update your plan tasks in the proposal using checklist  https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists  
